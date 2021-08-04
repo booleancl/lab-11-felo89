@@ -1,0 +1,1 @@
+document.body.querySelector('h1').innerHTML = "Hello Friend"
